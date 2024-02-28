@@ -1,4 +1,6 @@
-### Hi there 👋
+<center>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/2reckey?theme=dark&font=Arimo)
 
 <!--
 **2reckey/2reckey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
